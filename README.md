@@ -1,6 +1,7 @@
-# nodejs-background-jobs
-Projeto de implementação de trabalhos em segundo plano com Nodejs e Redis.
+# nodejs-redis-mailer
+Projeto de implementação de envio de emails com Nodejs e Redis. 
 
+Envio de emails através de pub/sub utilizando o Redis.
 
 ## Rodando o Redis através do Docker:
 
